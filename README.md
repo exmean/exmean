@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=30&pause=1000&color=F5FF00&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Deep+dive+into+backend" alt="Typing SVG" /></a>
+</div>
+<div align="center">
   <img src="https://count.getloli.com/get/@exmean?theme=rule34" alt="exmean" />
 </div>
 <br />
